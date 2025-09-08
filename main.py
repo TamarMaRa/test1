@@ -7,5 +7,5 @@ print(f"my name is {name}, random animal: {animal}")
 
 """
 name = "Name" 
-print(" Hello " , name ," How are you: " )
+print(" Hello " , name ," How are you:  " )
 """
